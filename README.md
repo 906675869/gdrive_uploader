@@ -14,5 +14,5 @@ Replace client_secrets.json with your own json file downloaded from Google API C
 
 ####3) Usage:
 ```
-python gdrive_upload.py [directory or file to upload]
+python gdrive_upload.py [directory or file path to be uploaded]
 ```

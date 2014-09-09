@@ -21,3 +21,4 @@ Replace client_secrets.json with your own json file downloaded from Google API C
 ```
 python gdrive_upload.py [directory or file path to be uploaded]
 ```
+When the Permission page pops up in your browser, hit "Accept", copy the verification code and paste it back into the command line.

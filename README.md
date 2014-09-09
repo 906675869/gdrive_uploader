@@ -1,8 +1,13 @@
 GDrive Uploader
 ===============
 
-Simple Google Drive uploader in Python 
+Google Drive uploader in Python
 (based on the quick start script at https://github.com/googledrive/python-quickstart)
+
+**Features:**
+* Upload all files and subdirectories within the input path
+* Store credentials on the computer, which means you only need to authorize it once
+* Sanitize special characters (using unidecode)
 
 ####1) Install dependencies:
 ```

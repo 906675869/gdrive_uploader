@@ -13,6 +13,6 @@ Simple Google Drive uploader in Python
 Replace client_secrets.json with your own json file downloaded from Google API Console (native application).
 
 ####3) Usage:
-'''
+```
 python gdrive_upload.py [directory or file to upload]
-'''
+```
